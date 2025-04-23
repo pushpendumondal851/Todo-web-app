@@ -115,7 +115,7 @@ This ToDo Web Application is a simple task management tool that allows users to 
 ![Home Page](Screenshots/Home.jpeg)
 
 ### About Us Page  
-![About Us Page](Screenshots/About-us.jpeg)
+![About Us Page](Screenshots/About-Us.jpeg)
 
 ### Task Form Filled  
 ![Task Form](Screenshots/ToDo_Form.jpeg)
